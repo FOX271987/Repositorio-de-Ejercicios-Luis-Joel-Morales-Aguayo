@@ -7,7 +7,7 @@ Cada entrada incluye los recursos y materiales correspondientes a cada sesión d
 
 ## 📅 Ejercicios por semana
 
-A continuación se presenta la tabla con los ejercicios organizados por fecha (lunes de cada semana):
+A continuación se presenta la tabla con los ejercicios organizados con su respectivo link a Drive:
 
 | Nombre de actividades | Enlaces |
 |:------|:--------|
