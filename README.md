@@ -12,6 +12,7 @@ A continuación se presenta la tabla con los ejercicios organizados con su respe
 | Nombre de actividades | Enlaces |
 |:------|:--------|
 | Tutorial videojuego 2D | [Ver ejercicio](https://drive.google.com/file/d/1AXFDXlzCRhtKPBxqvPNbSUm87nkoMaxF/view?usp=sharing) |
+| Video de evidencia tutorial 01 | [Ver video]() |
 | Tutorial de videjuego en 2D usando YouTube como guía | [Ver ejercicio](https://drive.google.com/drive/folders/1WpfODu8CRNjJmktMPr5MFDBodRbOs6B6?usp=sharing) |
 | ... | Próximamente |
 | ... | Próximamente |
