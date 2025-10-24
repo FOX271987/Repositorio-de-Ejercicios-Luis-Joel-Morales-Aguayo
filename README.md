@@ -15,7 +15,8 @@ A continuación se presenta la tabla con los ejercicios organizados con su respe
 | Tutorial 01 videojuego 2D | [Ver ejercicio](https://drive.google.com/file/d/1AXFDXlzCRhtKPBxqvPNbSUm87nkoMaxF/view?usp=sharing) |
 | Video de evidencia tutorial 01 | [Ver video](https://drive.google.com/file/d/1--1CaGnl0aAo9Rz3Y1XrA8KBNkU229Ub/view?usp=sharing) |
 | Tutorial de videjuego en 2D usando YouTube como guía | [Ver ejercicio](https://drive.google.com/drive/folders/1WpfODu8CRNjJmktMPr5MFDBodRbOs6B6?usp=sharing) |
-| ... | Próximamente |
+| Tutorial 02 Videojuego 2D | [Ver Documento](https://drive.google.com/file/d/1CkXBquRPZZcNu5IfcAr6NYLVaBHzvJxK/view?usp=sharing) |
+| Video de evidencia tutorial 02 | [Ver video](https://drive.google.com/file/d/1rwR7B5HohSarLru7Qvfr4PEAqoITJnnj/view?usp=sharing) |
 | ... | Próximamente |
 | ... | Próximamente |
 
