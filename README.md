@@ -17,6 +17,8 @@ A continuación se presenta la tabla con los ejercicios organizados con su respe
 | Tutorial de videjuego en 2D usando YouTube como guía | [Ver ejercicio](https://drive.google.com/drive/folders/1WpfODu8CRNjJmktMPr5MFDBodRbOs6B6?usp=sharing) |
 | Tutorial 02 Videojuego 2D | [Ver Documento](https://drive.google.com/file/d/1CkXBquRPZZcNu5IfcAr6NYLVaBHzvJxK/view?usp=sharing) |
 | Video de evidencia tutorial 02 | [Ver video](https://drive.google.com/file/d/1rwR7B5HohSarLru7Qvfr4PEAqoITJnnj/view?usp=sharing) |
+| Tutorial 03 videojuego 2D | [Ver Documento](https://drive.google.com/file/d/15UX0QcfK_a17OP7zkqWCRUamE_TgHkqj/view?usp=sharing) |
+| Video de evidencia tutorial 03 | [Ver video](https://drive.google.com/file/d/1-fWMSIckipppwMtU-02lAwTGga5QUBC8/view?usp=sharing) |
 | ... | Próximamente |
 | ... | Próximamente |
 
@@ -27,7 +29,7 @@ A continuación se presenta la tabla con los ejercicios organizados con su respe
 - **Documentación:** Markdown  
 - **Control de versiones:** Git & GitHub  
 - **Almacenamiento:** Google Drive  
-- **Plataforma de video:** YouTube  
+- **Plataforma de video:** Grabado desde computadora personal y almacenado en Drive. 
 
 ---
 
