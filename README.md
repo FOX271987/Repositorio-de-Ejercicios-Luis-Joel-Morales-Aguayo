@@ -19,8 +19,10 @@ A continuación se presenta la tabla con los ejercicios organizados con su respe
 | Video de evidencia tutorial 02 | [Ver video](https://drive.google.com/file/d/1rwR7B5HohSarLru7Qvfr4PEAqoITJnnj/view?usp=sharing) |
 | Tutorial 03 videojuego 2D | [Ver Documento](https://drive.google.com/file/d/15UX0QcfK_a17OP7zkqWCRUamE_TgHkqj/view?usp=sharing) |
 | Video de evidencia tutorial 03 | [Ver video](https://drive.google.com/file/d/1-fWMSIckipppwMtU-02lAwTGga5QUBC8/view?usp=sharing) |
-| Tutorial 04 Videojuego 04 | [Ver Documento](https://drive.google.com/file/d/1ztIg11jYQcWfLnXJDyOKE_loTu4-G-7G/view?usp=sharing) |
+| Tutorial 04 Videojuego 2D | [Ver Documento](https://drive.google.com/file/d/1ztIg11jYQcWfLnXJDyOKE_loTu4-G-7G/view?usp=sharing) |
 | Video de evidencia tutorial 04 | [Ver video](https://drive.google.com/file/d/18AzJkgoiELEjk0WTEwsXO75As9VetDCV/view?usp=sharing) |
+| Tutorial 05 Videojuego 2D | [Ver video](https://drive.google.com/file/d/1lOBMvXOF2ralQvJqXcFNFgSKHWiBGKqw/view?usp=sharing) |
+| Video de evidencia tutorial 05 | [Ver video](https://drive.google.com/file/d/1OYrDZRTpEaoFBWu1iliXKy6xJUWklrxI/view?usp=sharing) |
 | ... | Próximamente |
 | ... | Próximamente |
 
