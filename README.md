@@ -21,10 +21,10 @@ A continuación se presenta la tabla con los ejercicios organizados con su respe
 | Video de evidencia tutorial 03 | [Ver video](https://drive.google.com/file/d/1-fWMSIckipppwMtU-02lAwTGga5QUBC8/view?usp=sharing) |
 | Tutorial 04 Videojuego 2D | [Ver Documento](https://drive.google.com/file/d/1ztIg11jYQcWfLnXJDyOKE_loTu4-G-7G/view?usp=sharing) |
 | Video de evidencia tutorial 04 | [Ver video](https://drive.google.com/file/d/18AzJkgoiELEjk0WTEwsXO75As9VetDCV/view?usp=sharing) |
-| Tutorial 05 Videojuego 2D | [Ver video](https://drive.google.com/file/d/1lOBMvXOF2ralQvJqXcFNFgSKHWiBGKqw/view?usp=sharing) |
+| Tutorial 05 Videojuego 2D | [Ver documento](https://drive.google.com/file/d/1lOBMvXOF2ralQvJqXcFNFgSKHWiBGKqw/view?usp=sharing) |
 | Video de evidencia tutorial 05 | [Ver video](https://drive.google.com/file/d/1OYrDZRTpEaoFBWu1iliXKy6xJUWklrxI/view?usp=sharing) |
-| ... | Próximamente |
-| ... | Próximamente |
+| Tutorial 06 Videojuego 2D | [Ver documento](https://drive.google.com/file/d/1-jUvGjD34It1T8ZuuCWQ2S9om8D9A5SM/view?usp=sharing) |
+| Video de evidencia tutorial 06 | [Ver video](https://drive.google.com/file/d/1Y-VfU2DZPZaJ4l_hV-wvsgyq-LtGkrV5/view?usp=sharing) |
 
 ---
 
